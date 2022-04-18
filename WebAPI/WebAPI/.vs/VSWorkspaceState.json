@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Migrations",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\netcoreapp3.0"
+  ],
+  "SelectedNode": "\\WebAPI.csproj",
+  "PreviewInSolutionExplorer": false
+}
